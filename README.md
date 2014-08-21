@@ -27,6 +27,7 @@ I wanted to check out some libraries that implemented the observer pattern and c
 This is an ipython notebook. To see the notes for comparing libraries, do
 
 ```
+brew install zeromq  # Or whatever is appropriate for your OS 
 pip install -r requirements.txt
 ipython notebook
 ```
