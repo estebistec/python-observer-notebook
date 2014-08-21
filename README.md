@@ -21,3 +21,12 @@ I wanted to check out some libraries that implemented the observer pattern and c
 * [nmevent](http://pythonhosted.org/nmevent/)
 * [Observed](https://github.com/DanielSank/observed)
 * [py-notify](http://download.gna.org/py-notify/reference/index.html)
+
+## Running
+
+This is an ipython notebook. To see the notes for comparing libraries, do
+
+```
+pip install -r requirements.txt
+ipython notebook
+```
