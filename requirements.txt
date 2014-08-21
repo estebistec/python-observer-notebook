@@ -1,0 +1,3 @@
+nmevent==0.3.2
+observed==0.4
+py-notify==0.3.1
